@@ -1,4 +1,4 @@
-# 5.2 IGX와 Holoscan을 활용한 AI 가속 - Multi-GPUs 활용
+# Running Multiple AI Models on Multiple GPUs in IGX Using Holoscan
 
 If you want to **run multiple AI models simultaneously** on **multiple GPUs** in **NVIDIA IGX using Holoscan**, you need to **efficiently distribute AI inference workloads** across the available GPUs. Holoscan integrates with **NVIDIA Triton Inference Server** and **TensorRT** to manage **multi-GPU inference execution**.
 
