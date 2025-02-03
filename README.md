@@ -2,6 +2,7 @@
 ## MONAI vs. MONAI Deploy vs. Holoscan
 
 This document provides a comparison of **MONAI, MONAI Deploy, and Holoscan** in terms of **development, deployment, and application**.
+The study notes for this repository are uploaded on my personal Notion. [Park, Jung-eun - IGX & Holoscan](https://je-park.notion.site/IGX-Holoscan-18e6df181b5b802d9f8ff15c7e4a19a5) [Park, Jung-eun - MONAI Deploy](https://je-park.notion.site/MONAI-AI-18e6df181b5b80ad8b9fe2e35f7b36e3)
 
 ## 📝 Comparison Table
 
